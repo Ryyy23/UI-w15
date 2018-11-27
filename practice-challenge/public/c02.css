@@ -1,0 +1,27 @@
+i.fa{
+    font-size: 42px;
+  }
+  i.fa:hover{
+    color: rgb(216, 11, 11);
+  }
+  table{    
+    background-color: #999;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    overflow: hidden;
+  }
+  table, td {
+    border: 1px solid #fff;
+  }
+  td {
+    padding: 15px;
+  }
+
+.btn{
+  margin-right:1em;
+}
+
+button {
+  margin-top: 10px;
+}

@@ -1,0 +1,35 @@
+
+Item 3: Practice Challenge 4
+The final (practice) challenge for the semester!
+
+Combining all your skills from the semester and working in small groups you must design a working connect 4 game. Your team will design your Firebase before commencing development.
+
+You will then develop the app components individually without directly sharing code.
+
+Your app must:
+
+Create a 10x10 game board
+Allow players to register
+Allow players to take a turn (place an icon)
+Manage player turns
+Check for win conditions
+Display win messages
+Reset the board
+Be styled appropriately
+Plus each member of your team must do one of the following:
+
+Allow players to message others in the game via live chat
+Allow players to "match make" - displaying and prompting other online players 
+Keep a leaderboard of all games won and show the winning state of the game
+Update the game so it can handle up to 10 players on a dynamic board.
+Use the following technologies/knowledge:
+
+React
+Firebase
+CSS
+JS
+HTML
+You will need to also demonstrate an implemented "Research" item from Week 15. This can be isolated on a single page but must be included in the project.
+
+
+The firebase must connect all students in groups.
